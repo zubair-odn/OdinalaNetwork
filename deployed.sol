@@ -1,3 +1,9 @@
+/*
+This is a flattened and altered implementation of the two stage crowd sale forked from:
+https://raw.githubusercontent.com/ProBonoPublicoWorld/ico-contracts/master/contracts/TwoStageCrowdsale.sol
+which use Zepplin-Security for Token and CrowdSale contracts
+*/
+
 
 // File: zeppelin-solidity\contracts\ownership\Ownable.sol
 
